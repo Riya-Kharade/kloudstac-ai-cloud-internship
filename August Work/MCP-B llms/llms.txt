@@ -1,0 +1,5 @@
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: ClaudeBot
+Allow: /
