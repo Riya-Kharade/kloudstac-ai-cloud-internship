@@ -1,91 +1,64 @@
-# Job Junction — Code of Conduct
+# Kloudineer Technologies AI & Cloud Research Internship
 
-*Maintaining a safe, respectful, and welcoming community for all contributors.*
-
----
-
-## 🤝 Our Pledge
-
-We, as members and contributors of **Job Junction**, pledge to make participation in this project a **harassment-free experience for everyone**.  
-We are committed to creating an **inclusive, friendly, and professional environment** where collaboration thrives.
-
-We pledge to:
-- Treat everyone with **respect and empathy**.  
-- Celebrate **diversity and differences**.  
-- Promote **learning, creativity, and growth** in all contributions.
+Welcome to my internship repository for the AI & Cloud Research intern role at **Kloudineer Technologies Private Limited (Kloudstac)**. This repository contains all the work done during my internship from June 2025 to December 2025.
 
 ---
 
-## 🌟 Expected Behavior
+## Internship Overview
 
-Positive behaviors that help build a welcoming community:  
-- Show kindness and professionalism toward others.  
-- Respect differing opinions and experiences.  
-- Give and receive constructive feedback gracefully.  
-- Take responsibility for mistakes and learn from them.  
-- Focus on the success of the **whole project**.
-
----
-
-## 🚫 Unacceptable Behavior
-
-The following behaviors are not tolerated:  
-- Harassment, bullying, or personal attacks.  
-- Discrimination based on race, gender, sexual orientation, religion, disability, or age.  
-- Offensive, explicit, or inappropriate content.  
-- Publishing private information without consent.  
-- Disruptive or unprofessional behavior.
+- **Position:** AI & Cloud Research Intern  
+- **Duration:** 2 June 2025 – 31 December 2025  
+- **Company:** Kloudineer Technologies Private Limited (Kloudstac)  
+- **Commitment:**  
+  - 40 hours/week during semester breaks  
+  - 12 hours/week during semester classes  
+- **Mode:** Mostly remote
 
 ---
 
-## 🛡 Enforcement Responsibilities
+## Internship Scope
 
-Community leaders are responsible for:  
-- Clarifying and enforcing this Code of Conduct.  
-- Taking corrective action when necessary.  
-- Maintaining confidentiality of all reports.
+1. Research and content development on:  
+   - AI / Machine Learning  
+   - Generative AI  
+   - Cloud AI tools  
+   - AI business tools  
+   - Cloud system design & app modernization (AWS, Azure, GCP, Databricks, NVIDIA stack)
 
----
+2. Coding and developing hands-on labs, AI Copilots, and AI Agents using ML, Generative AI, and Cloud AI tools.
 
-## 📢 Reporting Guidelines
+3. Building hands-on capability in emerging topics like Artificial General Intelligence (AGI).
 
-If you witness or experience unacceptable behavior:  
-1. Contact the maintainers via GitHub Issues or Discord.  
-2. Reports will be treated with **confidentiality and respect**.  
-3. Community leaders will respond promptly and take fair action.  
-
-> **No retaliation will occur** against reporters acting in good faith.
-
----
-
-## 🌍 Scope
-
-This Code of Conduct applies to:  
-- All project spaces (online & offline).  
-- Public interactions representing **Job Junction** (GitHub, Discord, events, social media).
+4. **Node.js and React-based Projects:**  
+   - Demo & lab on **MCP-B and llms.txt**:  
+     How to add `llms.txt` in a React website and validate that it is working correctly.  
+   - Demo & lab on **AI Agent controlling browser**:  
+     Creating a Node.js environment demo to automate tasks like online shopping till checkout, designed to be integrated with React websites.
 
 ---
 
-## ⚖️ Enforcement Guidelines
+## Confidentiality and IP
 
-Consequences for violations may include:  
-1. **Correction** – Private warning or request for apology.  
-2. **Warning** – Official warning with conditions.  
-3. **Temporary Ban** – Restricted access to project spaces.  
-4. **Permanent Ban** – Removal for repeated or serious violations.
+All business information, content, code, and intellectual property encountered during this internship are confidential and protected.
 
 ---
 
-## 📜 Attribution
+## Additional Information
 
-This Code of Conduct is adapted from the [Contributor Covenant (v3.0)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), with modifications for **Job Junction under GSSoC’25**.  
-
-We thank all contributors, maintainers, and members for helping make **Job Junction** a **safe, inclusive, and professional space**.
+- No stipend during internship  
+- Possible conversion to paid internship/full-time role based on company needs and intern interest  
+- Periodic AI training provided  
+- Internship certificate issued after minimum 3 months completion  
 
 ---
 
-### 🎉 Final Note
+## Contact
 
-This Code of Conduct is more than just rules — it’s about building a **community where creativity, collaboration, and kindness thrive**.  
+- **Intern Name:** Riya Sunil Kharade  
+- **Email:** riyasunilkharade.vit@gmail.com  
+- **Company Website:** [https://www.kloudstac.com](https://www.kloudstac.com)
 
-Let’s make **Job Junction** a place where everyone feels welcome to **learn, contribute, and innovate**.
+---
+
+*Excited to learn and grow with Kloudstac!*
+
