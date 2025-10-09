@@ -1,133 +1,108 @@
-# Contributor Covenant Code of Conduct — Job Junction GSSoC'25
+# Job Junction — Code of Conduct
 
-![Community](https://img.shields.io/badge/Community-Welcoming-brightgreen?style=for-the-badge)
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-blue?style=for-the-badge)
-![Contributors](https://img.shields.io/github/contributors/SurajSG23/Job-Portal?style=for-the-badge)
-![Respect Badge](https://img.shields.io/badge/Respect-Everyone-blueviolet?style=for-the-badge)
-![Contribution Badge](https://img.shields.io/badge/Contributions-Encouraged-orange?style=for-the-badge)
-![Kindness Badge](https://img.shields.io/badge/Be-Kind-ff69b4?style=for-the-badge)
-![Collaboration Badge](https://img.shields.io/badge/Collaboration-Priority-yellow?style=for-the-badge)
-![Inclusive Badge](https://img.shields.io/badge/Inclusive-Always-orange?style=for-the-badge)
-![Fun Badge](https://img.shields.io/badge/Contributions-Fun-aqua?style=for-the-badge)
+![Job Junction Banner](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+*Maintaining a safe, respectful, and welcoming community for all contributors.*
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="350" alt="Welcome GIF">
-</p>
+---
 
 ## 🤝 Our Pledge
 
-We, as members, contributors, and leaders of **Job Junction**, pledge to make participation in our community a **harassment-free experience for everyone**.  
-We are committed to creating an **inclusive, friendly, and respectful environment** where collaboration thrives. 🌍💜
+We, as members and contributors of **Job Junction**, pledge to make participation in this project a **harassment-free experience for everyone**.  
+We are committed to creating an **inclusive, friendly, and professional environment** where collaboration thrives.
 
 We pledge to:
-- Treat every individual with **respect and empathy**.
-- Celebrate and value **differences and diversity**.
-- Ensure our community is a place of **learning, creativity, and growth**.
+- Treat everyone with **respect and empathy**.  
+- Celebrate **diversity and differences**.  
+- Promote **learning, creativity, and growth** in all contributions.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3orieVZlFV6OQzZJGi/giphy.gif" width="350" alt="Community Values GIF">
-</p>
+---
 
-## 🌟 Our Standards
+## 🌟 Expected Behavior
 
-Positive behaviors that help build a welcoming community:  
-- 🤝 Show empathy and kindness toward others  
-- 🎤 Respect differing opinions and experiences  
-- 💡 Give and accept constructive feedback gracefully  
-- 🙏 Take responsibility for mistakes and learn from them  
-- 🌟 Focus on what benefits the **whole community**
+Positive behaviors that help build a welcoming community:
+- 🤝 Show kindness and professionalism toward others.  
+- 🎤 Respect differing opinions and experiences.  
+- 💡 Give and receive constructive feedback gracefully.  
+- 🙏 Take responsibility for mistakes and learn from them.  
+- 🌟 Focus on the success of the **whole project**.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vRkFq6Jv4x8X4is/giphy.gif" width="350" alt="Standards GIF">
-</p>
+---
 
 ## 🚫 Unacceptable Behavior
 
-The following actions are not tolerated:  
-- ❌ Harassment, bullying, or personal attacks  
-- ❌ Discrimination based on race, gender, sexual orientation, religion, disability, or age  
-- ❌ Offensive or explicit content  
-- ❌ Publishing private information without consent  
-- ❌ Disruptive or unprofessional behavior
+The following behaviors are not tolerated:  
+- Harassment, bullying, or personal attacks  
+- Discrimination based on race, gender, sexual orientation, religion, disability, or age  
+- Offensive, explicit, or inappropriate content  
+- Publishing private information without consent  
+- Disruptive or unprofessional behavior
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRzozg4TCBXv6QU/giphy.gif" width="350" alt="No GIF">
-</p>
+---
 
 ## 🛡 Enforcement Responsibilities
 
-Community leaders are responsible for:  
+Community leaders are responsible for:
 - Clarifying and enforcing this Code of Conduct  
-- Taking fair corrective action when necessary  
+- Taking corrective action when necessary  
 - Maintaining confidentiality of all reports
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" width="350" alt="Protection GIF">
-</p>
+---
 
-## 📢 Reporting Issues
+## 📢 Reporting Guidelines
 
-If you see behavior that violates this Code of Conduct, please **report it immediately**:  
+If you witness or experience unacceptable behavior:
+1. 📨 Contact the maintainers via GitHub Issues or Discord  
+2. 🔒 Reports will be treated with **confidentiality and respect**  
+3. 🚀 Community leaders will respond promptly and take fair action  
 
-1. 📨 Contact the maintainers via GitHub Issues or Discord.  
-2. 🔒 Reports will be treated with **confidentiality and respect**.  
-3. 🚀 Community leaders will respond promptly and take fair action.  
+> **No retaliation will occur** against reporters acting in good faith.
 
-No retaliation will occur against those who report in good faith. 🙌
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="350" alt="Reporting GIF">
-</p>
+---
 
 ## 🌍 Scope
 
-This Code of Conduct applies to:  
+This Code of Conduct applies to:
 - All project spaces (online & offline)  
-- Public interactions where participants represent **Job Junction** (GitHub, Discord, social media, events)
+- Public interactions representing **Job Junction** (GitHub, Discord, events, social media)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="350" alt="Scope GIF">
-</p>
+---
 
 ## ⚖️ Enforcement Guidelines
 
-Consequences for violations:  
+Consequences for violations may include:  
+1. **Correction** 📝 – Private warning or request for apology  
+2. **Warning** ⚠️ – Official warning with conditions  
+3. **Temporary Ban** ⏳ – Restricted access to project spaces  
+4. **Permanent Ban** 🚫 – Removal for repeated or serious violations  
 
-1. **Correction** 📝  
-- Private written warning  
-- Request for public apology  
-
-2. **Warning** ⚠️  
-- Official warning with conditions  
-- Temporary restriction of interactions  
-
-3. **Temporary Ban** ⏳  
-- Removal from project spaces for a period  
-
-4. **Permanent Ban** 🚫  
-- Permanent removal for repeated or severe violations
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="350" alt="Ban GIF">
-</p>
+---
 
 ## 📜 Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant (v3.0)](https://www.contributor-covenant.org/version/3/0/code_of_conduct/), with modifications for **Job Junction under GSSoC’25**.  
 
-We thank every contributor, maintainer, and member for making **Job Junction** a **safe, inclusive, and inspiring space**. ✨💡
+We thank all contributors, maintainers, and members for helping make **Job Junction** a **safe, inclusive, and professional space**.  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="350" alt="Celebration GIF">
-</p>
+---
 
-## 🎉 Final Note
+### 📌 Optional Visuals
 
-This is about building a community where **creativity, collaboration, and kindness** thrive.  
-Let’s make **Job Junction** a place where everyone feels welcome to **learn, contribute, and innovate**. 🚀💜
+You can add **small, meaningful visuals** for sections:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="350" alt="Community GIF">
-</p>
+- **Pledge Section:** ![Handshake](https://img.icons8.com/ios-filled/50/000000/handshake.png)  
+- **Expected Behavior:** ![Star](https://img.icons8.com/ios-filled/50/000000/star.png)  
+- **Unacceptable Behavior:** ![Stop](https://img.icons8.com/ios-filled/50/000000/stop-sign.png)  
+- **Reporting Issues:** ![Report](https://img.icons8.com/ios-filled/50/000000/report-card.png)  
+
+These icons give a **professional visual touch** without making it look flashy or informal.
+
+---
+
+✅ **Result:** Clean, readable, formal, but still visually appealing.
+
+---
+
+If you want, I can **create a full ready-to-use Markdown file with these icons embedded in each section** so it **looks like a polished, professional PDF or GitHub page**.  
+
+Do you want me to do that next?
